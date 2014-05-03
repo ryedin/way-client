@@ -18,9 +18,7 @@ After `vagrant up` is finished, you will have a completely provisioned VM with a
 Running the MyWay Web Front-end
 =======
 
-```
-NOTE: this README is currently just a placeholder. We will update it with more complete instructions for connecting the front-end to the MyWay API back-end once we have fully landed that integration and can codify it in these setup docs
-```
+**NOTE: this README is currently just a placeholder. We will update it with more complete instructions for connecting the front-end to the MyWay API back-end once we have fully landed that integration and can codify it in these setup docs**
 
 To run the MyWay Web Front-end server, simply do the following (assumes the `vagrant` environment is up)
 
